@@ -1,78 +1,53 @@
-# Hello, I'm [Your Name] 👋
+ Pablo Alexandre
 
-<!-- Your Profile Picture -->
-<p align="center">
-  <img src="URL_TO_YOUR_PROFILE_PICTURE" width="200" alt="Profile Picture"/>
-</p>
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
----
+## 🚀 About Me
 
-## About Me
-- 🌍 Based in [Your Location]
-- 🚀 Passionate about [Your Passions or Areas of Interest]
-- 📚 Currently learning [What you're learning]
-- 💻 Working on [Current Project or Role]
+- 🌱 I’m currently learning advanced web development and cloud computing
+- 👯 I’m looking to collaborate on interesting and impactful projects
+- 💬 Ask me about anything related to programming, I'm always happy to help
+- 📫 How to reach me: [pablo.barros1@outlook.com]
+- ⚡ Fun fact: I love hiking and gaming
 
----
+## 🛠️ Languages and Tools
 
-## Tech Stack & Tools
-<!-- Icons from devicon.dev or simpleicons.org -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <!-- Add more icons matching your skills -->
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
+## 📈 GitHub Stats
 
-## Stats
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloalexandre1&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME" alt="GitHub Streak" />
-</p>
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-barros-41a091203/)
+
+
+## 📚 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloalexandre1&layout=compact&theme=radical)
 
 ---
 
-## My Latest Projects
+## 🛠️ Experience
 
-<table>
-  <tr>
-    <td>
-      <a href="URL_TO_PROJECT1">
-        <img src="URL_TO_PROJECT1_IMAGE" width="200" alt="Project 1"/>
-      </a>
-      <br>
-      <a href="URL_TO_PROJECT1">Project 1 Name</a>
-      <p>Description of Project 1</p>
-    </td>
-    <td>
-      <a href="URL_TO_PROJECT2">
-        <img src="URL_TO_PROJECT2_IMAGE" width="200" alt="Project 2"/>
-      </a>
-      <br>
-      <a href="URL_TO_PROJECT2">Project 2 Name</a>
-      <p>Description of Project 2</p>
-    </td>
-  </tr>
-</table>
+### Fullstack Software Developer and System admin.
+#### - C.E.E.A. (Centro Educacional Evangélico Águia)
+#### nov/2024 - present 
 
----
+### Fullstack Software Developer
+#### OneRF Networks
+#### nov/2022 - nov/2024
+### Fullstack Software Developer
+#### FreeLancer
+#### fev/2020 - nov/2022
 
-## Connect with Me
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_TWITTER_PROFILE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>"[Your Favorite Quote or Personal Mantra]"</i>
-</p>
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
